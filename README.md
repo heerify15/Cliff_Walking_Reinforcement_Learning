@@ -52,7 +52,7 @@ Cliff Walking/
 │   ├── SARSA.py
 │   └── Q_Learning.py
 ├── Output/
-│   └── cliff_walking.png
+│   └── cliff_walking.jpg
 ├── README.md
 ```
 
